@@ -1,0 +1,1 @@
+Planen med prosjektet er å kunne logge musposisjon via en keybind, deretter bruke denne loggen til å utføre samme bevegelsene.
